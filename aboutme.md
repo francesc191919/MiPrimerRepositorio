@@ -18,4 +18,4 @@ Soy estudiante de **Grado Superior en Administración de Sistemas Informáticos 
 
 - **Apuntes GEstión de Bases de datos, Generalizaciones**
 - 
-![Generalizaciones](/img/capturageneralizaciones.png)
+![Generalizaciones](/img/captura_generalizaciones.png)
