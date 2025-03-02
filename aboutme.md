@@ -15,3 +15,7 @@ Soy estudiante de **Grado Superior en Administración de Sistemas Informáticos 
 ## Contacto
 
 - **Email**: [francescballester19@gmail.com](mailto:francescballester19@gmail.com)
+
+- **Apuntes GEstión de Bases de datos, Generalizaciones**
+- 
+![Texto alternativo](/img/captura_generalizaciones.png "Generalizaciones")
